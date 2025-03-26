@@ -1,7 +1,7 @@
 # Olá, Me chamo [Rivanildo Barreto]👨‍💻
 
 ### Sobre mim:
-💡Sou um desenvolvedor apaixonado por *tecnologia
+💡Sou um desenvolvedor apaixonado por tecnologia:👨‍💻
 
 ### 🚀 Minhas habilidades:
 - Linguagens de Programação:
@@ -15,5 +15,4 @@
 - [Instagram](https://www.instagram.com/ryva_tec_?igsh=d2ZsY2xlY2Q5aWFy&utm_source=qr)
 
 ### ⚡ Fatos interessantes sobre mim:
-- 🌴 Amante da Natureza:
-- 💻 Apaixonado por Tecnologia:
+- 🌴 Amante da Natureza:🥰

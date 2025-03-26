@@ -1,7 +1,7 @@
 # Olá, Me chamo [Rivanildo Barreto]💻
 
 ### Sobre mim:
-💡Sou um desenvolvedor apaixonado por tecnologia:👨‍💻
+💡Sou um desenvolvedor apaixonado por tecnologia💻
 
 ### 🚀 Minhas habilidades:
 - Linguagens de Programação:

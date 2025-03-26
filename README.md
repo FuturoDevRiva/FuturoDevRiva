@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, Me chamo [Rivanildo Barreto]👨‍💻
 
-<!--
-**FuturoDevRiva/FuturoDevRiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim:
+💡Sou um desenvolvedor apaixonado por *tecnologia
 
-Here are some ideas to get you started:
+### 🚀 Minhas habilidades:
+- Linguagens de Programação:
+- Tecnico em Eletronica de Smartphone:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente estou aprendendo:
+📚 Analise e Desenvolvimento De Sistema:
+
+### 📫 Como me encontrar:
+- [LinkedIn](https://br.linkedin.com/in/rivanildo-barreto-318832358)
+- [Instagram](https://www.instagram.com/ryva_tec_?igsh=d2ZsY2xlY2Q5aWFy&utm_source=qr)
+
+### ⚡ Fatos interessantes sobre mim:
+- 🌴 Amante da Natureza:
+- 💻 Apaixonado por Tecnologia:

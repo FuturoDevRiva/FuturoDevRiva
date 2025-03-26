@@ -1,4 +1,4 @@
-# Olá, Me chamo [Rivanildo Barreto]👨‍💻
+# Olá, Me chamo [Rivanildo Barreto]💻
 
 ### Sobre mim:
 💡Sou um desenvolvedor apaixonado por tecnologia:👨‍💻
